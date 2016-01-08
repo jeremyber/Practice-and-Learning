@@ -37,7 +37,7 @@ public class StoreCredit {
 	}
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		
-		BufferedReader br = new BufferedReader(new FileReader("A-large-practice.in"));
+		BufferedReader br = new BufferedReader(new FileReader("storecreditfiles/A-large-practice.in"));
 		
 		int numTestCases = Integer.parseInt(br.readLine());
 		//System.out.println(numTestCases);

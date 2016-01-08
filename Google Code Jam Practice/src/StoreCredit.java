@@ -4,7 +4,6 @@ import java.io.IOException;
 
 /**
 	 * Refers to Google Code Jam Question:
-	 * Checking if still good...
 	 * https://code.google.com/codejam/contest/351101/dashboard#s=p0
 	 * 
 */

@@ -1,10 +1,16 @@
+package qualificationround;
+
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 
-
+/**
+ * Refers to https://code.google.com/codejam/contest/351101/dashboard#s=p2
+ * @author jbera
+ *
+ */
 public class T9Spelling {
 
 	

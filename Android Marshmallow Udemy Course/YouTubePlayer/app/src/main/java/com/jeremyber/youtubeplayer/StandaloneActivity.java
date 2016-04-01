@@ -5,10 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.widget.Button;
 
-import com.google.android.youtube.player.YouTubeBaseActivity;
-import com.google.android.youtube.player.YouTubePlayer;
-
-public class StandaloneActivity extends YouTubeBaseActivity implements YouTubePlayer.OnInitializedListener {
+public class StandaloneActivity extends AppCompatActivity {
 
     private String GOOGLE_API_KEY = "AIzaSyBAuqdXqUDBb7MPyEnk3rlNgKZ9sRIPC_I";
     private String YOUTUBE_VIDEO_ID = "IzDwa2y5kDs";

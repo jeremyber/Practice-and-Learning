@@ -2,4 +2,8 @@
     <string name="app_name">YouTubePlayer</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_you_tube">YouTubeActivity</string>
+    <string name="title_activity_youtube">YoutubeActivity</string>
+    <string name="google_app_id">ace-resolver-126502</string>
+    <string name="google_api_key">AIzaSyBAuqdXqUDBb7MPyEnk3rlNgKZ9sRIPC_I</string>
+    <string name="title_activity_standalone">StandaloneActivity</string>
 </resources>
